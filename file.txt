@@ -1,3 +1,5 @@
-﻿questo è un file di testo....vediamo come modificarlo
+questo è un file di testo....vediamo come modificarlo
 
-sono sul mio portatile e sto scrivendo questo (con un ramo diverso)
+sono sul mio portatile e sto scrivendo questo
+
+(con un ramo diverso)
